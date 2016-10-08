@@ -1,2 +1,2 @@
 # SmsSender
-Sms Sender by api
+Sms Sender APP for android 
