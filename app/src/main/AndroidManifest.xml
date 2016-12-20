@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.mpe.smssender">
+<<<<<<< HEAD
+=======
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.READ_CONTACTS"/>
+>>>>>>> dfa36c2048e9b338c26f58a5c7c7b27d8ebf0169
     <uses-permission android:name="android.permission.INTERNET"/>
 
     <application
@@ -16,7 +21,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+<<<<<<< HEAD
         <activity android:name=".Main2Activity"></activity>
+=======
+>>>>>>> dfa36c2048e9b338c26f58a5c7c7b27d8ebf0169
     </application>
 
 </manifest>
